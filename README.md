@@ -23,5 +23,5 @@ For partner integration, we have a custom whitelabeling setting. You have to sen
 
 ## Support 
 
-Telegram: [https://t.me/treasurekeygroup]
+[Telegram](https://t.me/treasurekeygroup)
 
